@@ -1,0 +1,4 @@
+interface:
+  display_name: "设计定调助手"
+  short_description: "用逐步提问带新手完成定调、素材复核、网页预览与声音交接"
+  default_prompt: "使用 $design-tone-starter 帮我从方向和参考链接开始，建立项目目录并一步步完成设计。"
